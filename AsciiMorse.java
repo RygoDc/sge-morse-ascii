@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class Main {
+public class AsciiMorse {
     public static void main(String[] args) {
         String frase;
         Scanner sc = new Scanner(System.in);
