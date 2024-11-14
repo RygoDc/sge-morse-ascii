@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 //traducir codigo morse a ascii
-public class Main {
+public class MorseAscii {
     private static final Map<String, Character> traductor = new HashMap<>();
 
     static {
